@@ -1,8 +1,3 @@
-/*
- Khanh Nguyen
- CECS 282 S 7
- */
-
 #include <iostream>
 #include <vector>
 #include <map>
